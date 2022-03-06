@@ -1,7 +1,7 @@
 # Python implementation of kVirtuals
 
 This repository contains code for a gene selection method based on kVirtuals: [An unsupervised gene selection method based on multivariate normalized
-mutual information of genes](https://www.sciencedirect.com/science/article/abs/pii/S0169743922000235) implemented in Python.
+mutual information of genes](https://doi.org/10.1016/j.chemolab.2022.104512) implemented in Python.
 
 ## Requirements
 
